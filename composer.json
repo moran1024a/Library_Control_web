@@ -1,0 +1,11 @@
+{
+    "name": "library/control-web",
+    "description": "Custom lightweight MVC library management system",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
